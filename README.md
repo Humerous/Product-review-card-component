@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: ((https://product-review-card-component.vercel.app/)
+- Live Site URL: (https://product-review-card-component.vercel.app/)
 
 ## My process
 

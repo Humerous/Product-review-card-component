@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Alt text](https://github.com/Humerous/Product-review-card-component/blob/main/Desktop-view.pdf)
-![Alt text](https://github.com/Humerous/Product-review-card-component/blob/main/Mobile-view.pdf)
+![Desktop-View](https://github.com/Humerous/Product-review-card-component/blob/main/Desktop-view.pdf)
+![Mobile-View](https://github.com/Humerous/Product-review-card-component/blob/main/Mobile-view.pdf)
 
 ### Links
 

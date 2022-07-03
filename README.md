@@ -26,8 +26,8 @@ Users should be able to:
 
 ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 
-![Desktop-View](https://github.com/Humerous/Product-review-card-component/blob/main/Desktop-view.pdf “desktop  view”)
-![Mobile-View](https://github.com/Humerous/Product-review-card-component/blob/main/Mobile-view.pdf “mobile view)
+![Desktop-View](https://github.com/Humerous/Product-review-card-component/blob/main/Desktop-view.pdf)
+![Mobile-View](https://github.com/Humerous/Product-review-card-component/blob/main/Mobile-view.pdf)
 
 ### Links
 

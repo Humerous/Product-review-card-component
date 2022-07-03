@@ -24,8 +24,6 @@ Users should be able to:
 
 ### Screenshot
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
-
 ![Desktop-View](https://github.com/Humerous/Product-review-card-component/blob/main/Desktop-view.pdf)
 ![Mobile-View](https://github.com/Humerous/Product-review-card-component/blob/main/Mobile-view.pdf)
 
